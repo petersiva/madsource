@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jobs advertiser="Crest Personnel Pty Ltd" account="Crest Personnel Pty Ltd" jid="4668" source="kdqdigaveoqetnmrgrj47sr6qm">
+  <Fields>
+    <Field jid="20726" type="List" name="Category">
+      <Values>
+        <Value jid="1320919" name="Accounting">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1320952" name="Accountant - Chartered / CPA" />
+              <Value jid="1320953" name="Accountant - Cost" />
+              <Value jid="1320954" name="Accountant - Credit &amp; Risk" />
+              <Value jid="1320955" name="Accountant - Financial" />
+              <Value jid="1320956" name="Accountant - Forensic / Advisory" />
+              <Value jid="1320957" name="Accountant - Payroll" />
+              <Value jid="1320958" name="Accountant - Systems" />
+              <Value jid="1320959" name="Accountant - Tax" />
+              <Value jid="1320960" name="Accountant - Treasury" />
+              <Value jid="1320961" name="Accounts Clerk" />
+              <Value jid="1320962" name="Accounts Payable" />
+              <Value jid="1320963" name="Accounts Receivable" />
+              <Value jid="1320964" name="Administration" />
+              <Value jid="1320965" name="Auditor / Professional Services" />
+              <Value jid="1320966" name="Bookkeeper" />
+              <Value jid="1320967" name="Consulting / Business Services" />
+              <Value jid="1320968" name="Finance Manager" />
+              <Value jid="1320969" name="Financial Controller" />
+              <Value jid="1320970" name="Insolvency Practitioner" />
+              <Value jid="1320971" name="Management Accountant" />
+              <Value jid="1320972" name="Purchasing / Inventory" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320920" name="Admin / Secretarial / Office Support">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1320973" name="Administration" />
+              <Value jid="1320974" name="Contracts Administrator" />
+              <Value jid="1320975" name="Data Entry Clerk" />
+              <Value jid="1320976" name="Executive Assistant" />
+              <Value jid="1320977" name="Office Junior / Assistant" />
+              <Value jid="1320978" name="Office Manager" />
+              <Value jid="1320979" name="Personal Assistant" />
+              <Value jid="1320980" name="Receptionist" />
+              <Value jid="1320981" name="Secretary" />
+              <Value jid="1320982" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320921" name="Advertising / Media / Publishing">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1320983" name="Account Manager" />
+              <Value jid="1320984" name="Advertising - Creative Services" />
+              <Value jid="1320985" name="Advertising Specialist" />
+              <Value jid="1320986" name="Journalism / Copywriter" />
+              <Value jid="1320987" name="Publishing" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320922" name="Agribusiness &amp; Farming">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1320988" name="Agribusiness Manager" />
+              <Value jid="1320989" name="Agronomist" />
+              <Value jid="1320990" name="Aquiculture / Fish Farmer" />
+              <Value jid="1320991" name="Farmer / Farm Hand" />
+              <Value jid="1320992" name="Forestry Planner / Modeller" />
+              <Value jid="1320993" name="Grower" />
+              <Value jid="1320994" name="Picker" />
+              <Value jid="1320995" name="Viticulture" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320923" name="Architecture &amp; Interior Design">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1320996" name="Architect" />
+              <Value jid="1320997" name="CAD / Draftsperson" />
+              <Value jid="1320998" name="Interior Designer" />
+              <Value jid="1320999" name="Landscape Architect" />
+              <Value jid="1321000" name="Lighting Specialist" />
+              <Value jid="1321001" name="Project Manager" />
+              <Value jid="1321002" name="Technician" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320924" name="Arts &amp; Entertainment">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321003" name="Actors / Dancers / Singers" />
+              <Value jid="1321004" name="Animation / Cartoonist" />
+              <Value jid="1321005" name="Artist / Painter" />
+              <Value jid="1321006" name="Illustration" />
+              <Value jid="1321007" name="Museum" />
+              <Value jid="1321008" name="Musician" />
+              <Value jid="1321009" name="Photography" />
+              <Value jid="1321010" name="Producer" />
+              <Value jid="1321011" name="TV / Film / Radio" />
+              <Value jid="1321012" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320925" name="Banking &amp; Finance">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321013" name="Analyst" />
+              <Value jid="1321014" name="Bank Officer / Teller" />
+              <Value jid="1321015" name="Banking - Compliance" />
+              <Value jid="1321016" name="Business &amp; Corporate Banking" />
+              <Value jid="1321017" name="Client Services" />
+              <Value jid="1321018" name="Credit &amp; Collections" />
+              <Value jid="1321019" name="Financial Planning" />
+              <Value jid="1321020" name="Funds Management" />
+              <Value jid="1321021" name="Investment Banking" />
+              <Value jid="1321022" name="Manager" />
+              <Value jid="1321023" name="Mortgages / Lending" />
+              <Value jid="1321024" name="Retail / Consumer Banking" />
+              <Value jid="1321025" name="Settlements" />
+              <Value jid="1321026" name="Stock Broking" />
+              <Value jid="1321027" name="Superannuation" />
+              <Value jid="1321028" name="Treasury and/or Risk Specialist" />
+              <Value jid="1321029" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320926" name="Building &amp; Construction">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321030" name="Building Services" />
+              <Value jid="1321031" name="Construction Manager" />
+              <Value jid="1321032" name="Contracts Manager" />
+              <Value jid="1321033" name="Demolition &amp; Excavation" />
+              <Value jid="1321034" name="Driver / Operator" />
+              <Value jid="1321035" name="Estimating" />
+              <Value jid="1321036" name="Foreperson / Supervisor" />
+              <Value jid="1321037" name="Labourer" />
+              <Value jid="1321038" name="OH &amp; S" />
+              <Value jid="1321039" name="Planning" />
+              <Value jid="1321040" name="Project Management" />
+              <Value jid="1321041" name="Property Developer" />
+              <Value jid="1321042" name="Site Manager" />
+              <Value jid="1321043" name="Surveying" />
+              <Value jid="1321044" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320927" name="Call Centre &amp; Customer Service">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321045" name="Call Center Operator" />
+              <Value jid="1321046" name="Call Centre - Inbound" />
+              <Value jid="1321047" name="Call Centre - Outbound" />
+              <Value jid="1321048" name="Customer Service" />
+              <Value jid="1321049" name="Manager" />
+              <Value jid="1321050" name="Team Leader" />
+              <Value jid="1321051" name="Telemarketing" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320928" name="Defence / Emergency / Security">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321052" name="Army / Navy / Air Force" />
+              <Value jid="1321053" name="Correctional Services" />
+              <Value jid="1321054" name="Crowd Control" />
+              <Value jid="1321055" name="Emergency Services" />
+              <Value jid="1321056" name="Police / Fire / Ambulance" />
+              <Value jid="1321057" name="Security Guards / Officers" />
+              <Value jid="1321058" name="Security - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320929" name="Education &amp; Child Care">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321059" name="Au Pair / Nanny" />
+              <Value jid="1321060" name="Childcare" />
+              <Value jid="1321061" name="Early Childhood - Other" />
+              <Value jid="1321062" name="Languages / Translator" />
+              <Value jid="1321063" name="Lecturer / Professor" />
+              <Value jid="1321064" name="Library" />
+              <Value jid="1321065" name="Primary - Other" />
+              <Value jid="1321066" name="Primary - Teachers" />
+              <Value jid="1321067" name="Principal" />
+              <Value jid="1321068" name="Research" />
+              <Value jid="1321069" name="Secondary - Other" />
+              <Value jid="1321070" name="Secondary - Teachers" />
+              <Value jid="1321071" name="Student Services" />
+              <Value jid="1321072" name="Tutor" />
+              <Value jid="1321073" name="University - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320930" name="Engineering">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321074" name="Aeronautics" />
+              <Value jid="1321075" name="Automotive" />
+              <Value jid="1321076" name="Building Services" />
+              <Value jid="1321077" name="CAD / CAE" />
+              <Value jid="1321078" name="Chemical / Process" />
+              <Value jid="1321079" name="Civil / Structural / Design" />
+              <Value jid="1321080" name="Electrical" />
+              <Value jid="1321081" name="Environmental" />
+              <Value jid="1321082" name="Field" />
+              <Value jid="1321083" name="Industrial" />
+              <Value jid="1321084" name="Maintenance" />
+              <Value jid="1321085" name="Management" />
+              <Value jid="1321086" name="Mechanical" />
+              <Value jid="1321087" name="Project Management" />
+              <Value jid="1321088" name="Surveyor" />
+              <Value jid="1321089" name="Systems" />
+              <Value jid="1321090" name="Water &amp; Waste" />
+              <Value jid="1321091" name="Engineering - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320931" name="Executive Management">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321092" name="Chairman" />
+              <Value jid="1321093" name="Chief Executive Officer (CEO)" />
+              <Value jid="1321094" name="Chief Financial Officer (CFO)" />
+              <Value jid="1321095" name="Chief Information Officer" />
+              <Value jid="1321096" name="Chief Operating Officer (COO)" />
+              <Value jid="1321097" name="Company Secretary" />
+              <Value jid="1321098" name="Director" />
+              <Value jid="1321099" name="Finance Director (FD)" />
+              <Value jid="1321100" name="General Manager" />
+              <Value jid="1321101" name="Managing Director" />
+              <Value jid="1321102" name="Partner" />
+              <Value jid="1321103" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320932" name="Government / Local Government">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321104" name="Federal Government" />
+              <Value jid="1321105" name="Local Government" />
+              <Value jid="1321106" name="State Government" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320933" name="Graduates">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321107" name="Accounting" />
+              <Value jid="1321108" name="Admin / Secretarial / Office" />
+              <Value jid="1321109" name="Advertising/Media/Publishing" />
+              <Value jid="1321110" name="Architecture &amp; Interior Design" />
+              <Value jid="1321111" name="Arts &amp; Entertainment" />
+              <Value jid="1321112" name="Banking &amp; Finance" />
+              <Value jid="1321113" name="Building &amp; Construction" />
+              <Value jid="1321114" name="Call Centre &amp; Customer Service" />
+              <Value jid="1321115" name="Defence / Emergency / Security" />
+              <Value jid="1321116" name="Education &amp; Child Care" />
+              <Value jid="1321117" name="Engineering" />
+              <Value jid="1321118" name="Government / Local Government" />
+              <Value jid="1321119" name="Healthcare &amp; Medicine" />
+              <Value jid="1321120" name="Hospitality / Travel / Tourism" />
+              <Value jid="1321121" name="HR &amp; Recruitment" />
+              <Value jid="1321122" name="Insurance &amp; Superannuation" />
+              <Value jid="1321123" name="IT &amp; Telecomms" />
+              <Value jid="1321124" name="Legal" />
+              <Value jid="1321125" name="Manufacturing" />
+              <Value jid="1321126" name="Marketing / PR / Events" />
+              <Value jid="1321127" name="Mining / Oil &amp; Gas / Utilities" />
+              <Value jid="1321128" name="Multimedia / Design / New Media" />
+              <Value jid="1321129" name="Real Estate + Property" />
+              <Value jid="1321130" name="Retail" />
+              <Value jid="1321131" name="Sales &amp; Account Management" />
+              <Value jid="1321132" name="Science &amp; Biotechnology" />
+              <Value jid="1321133" name="Sport &amp; Recreation" />
+              <Value jid="1321134" name="Trades &amp; Services" />
+              <Value jid="1321135" name="Transport / Logistics / Drivers" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320934" name="Healthcare &amp; Medicine">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321136" name="Administration / Admissions" />
+              <Value jid="1321137" name="Aged Care" />
+              <Value jid="1321138" name="Alternative Medicine" />
+              <Value jid="1321139" name="Ambulance / Paramedic" />
+              <Value jid="1321140" name="Chiropractor" />
+              <Value jid="1321141" name="Clinical / Medical Research" />
+              <Value jid="1321142" name="Critical Care" />
+              <Value jid="1321143" name="Dental" />
+              <Value jid="1321144" name="Management" />
+              <Value jid="1321145" name="Medical Practitioner" />
+              <Value jid="1321146" name="Medical Sales" />
+              <Value jid="1321147" name="Medical Specialist" />
+              <Value jid="1321148" name="Mental Health" />
+              <Value jid="1321149" name="Nurse / Midwive" />
+              <Value jid="1321150" name="Oncology" />
+              <Value jid="1321151" name="Optometry" />
+              <Value jid="1321152" name="Pathology" />
+              <Value jid="1321153" name="Pharmaceuticals" />
+              <Value jid="1321154" name="Pharmacy / Chemist" />
+              <Value jid="1321155" name="Physio / Occupational Therapy" />
+              <Value jid="1321156" name="Psychology" />
+              <Value jid="1321157" name="Radiology / Sonography" />
+              <Value jid="1321158" name="Speech Therapy" />
+              <Value jid="1321159" name="Surgical" />
+              <Value jid="1321160" name="Vets / Vet Science" />
+              <Value jid="1321161" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320935" name="Hospitality / Travel / Tourism">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321162" name="Airline / Flight Attendant" />
+              <Value jid="1321163" name="Bar and Beverage" />
+              <Value jid="1321164" name="Chef" />
+              <Value jid="1321165" name="Cook" />
+              <Value jid="1321166" name="Front Office" />
+              <Value jid="1321167" name="Gaming &amp; Hotel" />
+              <Value jid="1321168" name="Kitchen Hand" />
+              <Value jid="1321169" name="Management / Supervisor" />
+              <Value jid="1321170" name="Pilot" />
+              <Value jid="1321171" name="Tour Bus Driver" />
+              <Value jid="1321172" name="Tour Guide &amp; Operator" />
+              <Value jid="1321173" name="Travel Agent / Consultant" />
+              <Value jid="1321174" name="Wait Staff" />
+              <Value jid="1321175" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320936" name="HR &amp; Recruitment">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321176" name="HR - Assistant / Administrator" />
+              <Value jid="1321177" name="HR - Co-ordinator" />
+              <Value jid="1321178" name="HR - Officer / Adviser" />
+              <Value jid="1321179" name="HR - Consultant" />
+              <Value jid="1321180" name="HR - General" />
+              <Value jid="1321181" name="HR - Management" />
+              <Value jid="1321182" name="HR - Director / Head of HR" />
+              <Value jid="1321183" name="OH &amp; S" />
+              <Value jid="1321184" name="Training / Learning &amp; Development" />
+              <Value jid="1321185" name="OD - Organisational Development" />
+              <Value jid="1321186" name="Remuneration and Benefits Specialist" />
+              <Value jid="1321187" name="Industrial Relations Specialist" />
+              <Value jid="1321188" name="Payroll Officer" />
+              <Value jid="1321189" name="HRIS" />
+              <Value jid="1321190" name="HR - Other" />
+              <Value jid="1321191" name="Recruitment - Account Manager" />
+              <Value jid="1321192" name="Recruitment - Manager" />
+              <Value jid="1321193" name="Recruitment - Support/Other" />
+              <Value jid="1321194" name="Recruitment Consultant - Perm" />
+              <Value jid="1321195" name="Recruitment Consultant - Temp / Contract" />
+              <Value jid="1321196" name="Resourcer" />
+              <Value jid="1321197" name="Researcher" />
+              <Value jid="1321198" name="Senior Recruitment Consultant" />
+              <Value jid="1321199" name="State / Country Manager" />
+              <Value jid="1321200" name="Team Leader" />
+              <Value jid="1321201" name="Trainee Consultant" />
+              <Value jid="1321202" name="Recruitment - Other" />
+              <Value jid="1321203" name="Executive Search Consultant" />
+              <Value jid="1321204" name="Office Manager" />
+              <Value jid="1321205" name="Recruitment Centre Manager" />
+              <Value jid="1321206" name="Recruitment Team Leader" />
+              <Value jid="1321207" name="Senior Internal Recruiter" />
+              <Value jid="1321208" name="Internal Recruiter" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320937" name="Insurance">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321209" name="Actuary" />
+              <Value jid="1321210" name="Insurance - Broker" />
+              <Value jid="1321211" name="Insurance - Claims &amp; Assessors" />
+              <Value jid="1321212" name="Insurance - General" />
+              <Value jid="1321213" name="Insurance - Life / Health" />
+              <Value jid="1321214" name="Management" />
+              <Value jid="1321215" name="Underwriting" />
+              <Value jid="1321216" name="Workers Compensation" />
+              <Value jid="1321217" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320938" name="IT &amp; Telecomms">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321218" name="Architect" />
+              <Value jid="1321219" name="Business Analyst" />
+              <Value jid="1321220" name="Consultant - BI / CRM" />
+              <Value jid="1321221" name="Consultant - ERP / Supply Chain" />
+              <Value jid="1321222" name="Consultant - Other" />
+              <Value jid="1321223" name="Consultant - Pre Sales" />
+              <Value jid="1321224" name="Data / Records Management" />
+              <Value jid="1321225" name="DBA / Database Developer" />
+              <Value jid="1321226" name="Hardware Engineer" />
+              <Value jid="1321227" name="Help Desk / Support" />
+              <Value jid="1321228" name="IT Security" />
+              <Value jid="1321229" name="Management" />
+              <Value jid="1321230" name="Network Administration" />
+              <Value jid="1321231" name="Network Engineer" />
+              <Value jid="1321232" name="Project Management / Team Lead" />
+              <Value jid="1321233" name="Sales Exec / Account Manager" />
+              <Value jid="1321234" name="Software - Analyst/Programmer" />
+              <Value jid="1321235" name="Software - Architect" />
+              <Value jid="1321236" name="Software - Developer" />
+              <Value jid="1321237" name="System Administration" />
+              <Value jid="1321238" name="Systems Analyst" />
+              <Value jid="1321239" name="Systems Integration" />
+              <Value jid="1321240" name="Technical Writer / Documenter" />
+              <Value jid="1321241" name="Testing &amp; QA" />
+              <Value jid="1321242" name="Trainer" />
+              <Value jid="1321243" name="WAN / Telecommunications" />
+              <Value jid="1321244" name="Web / Multimedia Designer" />
+              <Value jid="1321245" name="Web / Multimedia Developer" />
+              <Value jid="1321246" name="IT - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320939" name="Legal">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321247" name="Law Clerk / Paralegal" />
+              <Value jid="1321248" name="Lawyer - Commercial" />
+              <Value jid="1321249" name="Lawyer - Compliance" />
+              <Value jid="1321250" name="Lawyer - Corporate / M&amp;A" />
+              <Value jid="1321251" name="Lawyer - Employment" />
+              <Value jid="1321252" name="Lawyer - Inhouse" />
+              <Value jid="1321253" name="Lawyer - IP / Trademark" />
+              <Value jid="1321254" name="Lawyer - Litigation" />
+              <Value jid="1321255" name="Lawyer - Personal Injury" />
+              <Value jid="1321256" name="Lawyer - Private Practice Other" />
+              <Value jid="1321257" name="Lawyer - Property / Construction" />
+              <Value jid="1321258" name="Lawyer - Public Practice" />
+              <Value jid="1321259" name="Lawyer - Tax" />
+              <Value jid="1321260" name="Legal Secretary / Admin" />
+              <Value jid="1321261" name="Partner / Manager" />
+              <Value jid="1321262" name="Solicitor" />
+              <Value jid="1321263" name="Legal - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320940" name="Manufacturing">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321264" name="Assembly Line / Assembler" />
+              <Value jid="1321265" name="Engineer" />
+              <Value jid="1321266" name="Fitting / Machining" />
+              <Value jid="1321267" name="Industrial Design" />
+              <Value jid="1321268" name="Machinery / Tool Operation" />
+              <Value jid="1321269" name="Management / Supervisor" />
+              <Value jid="1321270" name="Manufacturing Consultant" />
+              <Value jid="1321271" name="Packer / Filler" />
+              <Value jid="1321272" name="Planning" />
+              <Value jid="1321273" name="Plant Management" />
+              <Value jid="1321274" name="Process Work" />
+              <Value jid="1321275" name="Production Worker" />
+              <Value jid="1321276" name="Purchasing / Procurement" />
+              <Value jid="1321277" name="QA" />
+              <Value jid="1321278" name="Research &amp; Development" />
+              <Value jid="1321279" name="Stores &amp; Warehousing" />
+              <Value jid="1321280" name="Toolmaker" />
+              <Value jid="1321281" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320941" name="Marketing / PR / Events">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321282" name="Brand Manager" />
+              <Value jid="1321283" name="Category Manager" />
+              <Value jid="1321284" name="Database Analyst / Specialist" />
+              <Value jid="1321285" name="Direct Marketer" />
+              <Value jid="1321286" name="E-Marketing" />
+              <Value jid="1321287" name="Event / Conference Management" />
+              <Value jid="1321288" name="Event / Conference Producer" />
+              <Value jid="1321289" name="Marketing Assistant / Coordinator" />
+              <Value jid="1321290" name="Marketing Communications" />
+              <Value jid="1321291" name="Marketing Consultant" />
+              <Value jid="1321292" name="Marketing Director" />
+              <Value jid="1321293" name="Marketing Executive" />
+              <Value jid="1321294" name="Marketing Manager" />
+              <Value jid="1321295" name="Marketing Research" />
+              <Value jid="1321296" name="PR - Media Advisor" />
+              <Value jid="1321297" name="PR - Press Officer" />
+              <Value jid="1321298" name="PR Manager" />
+              <Value jid="1321299" name="Product Development / Management" />
+              <Value jid="1321300" name="Promotions" />
+              <Value jid="1321301" name="Trade Marketing" />
+              <Value jid="1321302" name="Marketing / PR / Events - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320942" name="Mining / Oil &amp; Gas / Utilities">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321303" name="Drilling &amp; Blast" />
+              <Value jid="1321304" name="Engineering &amp; Maintenance" />
+              <Value jid="1321305" name="Exploration" />
+              <Value jid="1321306" name="Geoscience" />
+              <Value jid="1321307" name="Labourer" />
+              <Value jid="1321308" name="Manager / Supervisor" />
+              <Value jid="1321309" name="Mineral Processing" />
+              <Value jid="1321310" name="Production" />
+              <Value jid="1321311" name="Utilities" />
+              <Value jid="1321312" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320943" name="Multimedia / Design / New Media">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321313" name="3D / Special Effects" />
+              <Value jid="1321314" name="Content / Editorial" />
+              <Value jid="1321315" name="Creative" />
+              <Value jid="1321316" name="Designer" />
+              <Value jid="1321317" name="Gaming" />
+              <Value jid="1321318" name="Information Architect" />
+              <Value jid="1321319" name="Management" />
+              <Value jid="1321320" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320944" name="Real Estate &amp; Property">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321321" name="Admin / Office Support" />
+              <Value jid="1321322" name="Broker" />
+              <Value jid="1321323" name="Commercial" />
+              <Value jid="1321324" name="Facilities Manager" />
+              <Value jid="1321325" name="Leasing" />
+              <Value jid="1321326" name="Property Management" />
+              <Value jid="1321327" name="Residential" />
+              <Value jid="1321328" name="Sales / Agents" />
+              <Value jid="1321329" name="Valuation" />
+              <Value jid="1321330" name="Real Estate - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320945" name="Retail">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321331" name="Buyer / Purchaser" />
+              <Value jid="1321332" name="Department Manager" />
+              <Value jid="1321333" name="Duty Manager" />
+              <Value jid="1321334" name="Loss Prevention" />
+              <Value jid="1321335" name="Management - Head Office" />
+              <Value jid="1321336" name="Merchandising" />
+              <Value jid="1321337" name="Retail Assistant" />
+              <Value jid="1321338" name="Sales Assistant" />
+              <Value jid="1321339" name="Store Manager / Supervisor" />
+              <Value jid="1321340" name="Retail - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320946" name="Sales &amp; Account Management">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321341" name="Area / Territory Manager" />
+              <Value jid="1321342" name="Key Account Manager" />
+              <Value jid="1321343" name="Sales Assistant / Coordinator" />
+              <Value jid="1321344" name="Sales Executive / BDM" />
+              <Value jid="1321345" name="Sales Manager" />
+              <Value jid="1321346" name="Sales Rep" />
+              <Value jid="1321347" name="Telemarketing" />
+              <Value jid="1321348" name="Telesales" />
+              <Value jid="1321349" name="Sales - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320947" name="Science &amp; Biotechnology">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321350" name="Biotech" />
+              <Value jid="1321351" name="Environmental" />
+              <Value jid="1321352" name="Food" />
+              <Value jid="1321353" name="Laboratory / Technical" />
+              <Value jid="1321354" name="Pharmaceutical" />
+              <Value jid="1321355" name="Quality Assurance / Testing" />
+              <Value jid="1321356" name="Research &amp; Development" />
+              <Value jid="1321357" name="Scientist - Other" />
+              <Value jid="1321358" name="Topography" />
+              <Value jid="1321359" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320948" name="Sport &amp; Recreation">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321360" name="Coach / Instructor" />
+              <Value jid="1321361" name="Fitness Centre Manager" />
+              <Value jid="1321362" name="Fitness Instructor / Trainer" />
+              <Value jid="1321363" name="Management" />
+              <Value jid="1321364" name="Masseuse" />
+              <Value jid="1321365" name="Operations Manager" />
+              <Value jid="1321366" name="Sales" />
+              <Value jid="1321367" name="Sport and Rec - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320949" name="Trades &amp; Services">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321368" name="Aircon / Refrigeration" />
+              <Value jid="1321369" name="Apprentice / Trainee" />
+              <Value jid="1321370" name="Baker" />
+              <Value jid="1321371" name="Beauty Therapist / Beautician" />
+              <Value jid="1321372" name="Boat / Marine Specialist" />
+              <Value jid="1321373" name="Boilermaker" />
+              <Value jid="1321374" name="Bricklayer" />
+              <Value jid="1321375" name="Builder" />
+              <Value jid="1321376" name="Butcher" />
+              <Value jid="1321377" name="Carpenter / Cabinet Maker" />
+              <Value jid="1321378" name="Carpet Fitter" />
+              <Value jid="1321379" name="Catering / Beverage" />
+              <Value jid="1321380" name="Chef" />
+              <Value jid="1321381" name="Cleaner" />
+              <Value jid="1321382" name="Concrete / Formwork" />
+              <Value jid="1321383" name="Courier" />
+              <Value jid="1321384" name="Demolition / Excavation" />
+              <Value jid="1321385" name="Electrician" />
+              <Value jid="1321386" name="Floristry" />
+              <Value jid="1321387" name="Funeral Services" />
+              <Value jid="1321388" name="Gardener / Landscaper / Horticulturalist" />
+              <Value jid="1321389" name="Glazier" />
+              <Value jid="1321390" name="Hair Dresser" />
+              <Value jid="1321391" name="Labourer" />
+              <Value jid="1321392" name="Maintenance / Handypeople" />
+              <Value jid="1321393" name="Mechanic / Automotive" />
+              <Value jid="1321394" name="Painting" />
+              <Value jid="1321395" name="Pest Control Specialist" />
+              <Value jid="1321396" name="Plumbing" />
+              <Value jid="1321397" name="Printing" />
+              <Value jid="1321398" name="Removalist" />
+              <Value jid="1321399" name="Technician" />
+              <Value jid="1321400" name="Welder / Metalworker" />
+              <Value jid="1321401" name="Services - Other" />
+              <Value jid="1321402" name="Trades - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320950" name="Transport / Logistics / Drivers">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321403" name="Administration" />
+              <Value jid="1321404" name="Aviation" />
+              <Value jid="1321405" name="Customs" />
+              <Value jid="1321406" name="Driver" />
+              <Value jid="1321407" name="Fleet Management" />
+              <Value jid="1321408" name="Freight Forwarding / Shipping" />
+              <Value jid="1321409" name="Importer / Exporter" />
+              <Value jid="1321410" name="Management" />
+              <Value jid="1321411" name="Operations" />
+              <Value jid="1321412" name="Planning" />
+              <Value jid="1321413" name="Purchasing" />
+              <Value jid="1321414" name="Stevedoring" />
+              <Value jid="1321415" name="Support / Customer Service" />
+              <Value jid="1321416" name="Transport" />
+              <Value jid="1321417" name="Warehouse &amp; Distribution" />
+              <Value jid="1321418" name="Logistics - Other" />
+              <Value jid="1321419" name="Supply Chain - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1320951" name="Volunteer / Charity / Community">
+          <Field jid="20727" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1321420" name="Charity" />
+              <Value jid="1321421" name="Church / Religious" />
+              <Value jid="1321422" name="Counsellor" />
+              <Value jid="1321423" name="Fundraising" />
+              <Value jid="1321424" name="Social Work" />
+              <Value jid="1321425" name="Support Services" />
+              <Value jid="1321426" name="Volunteer" />
+              <Value jid="1321427" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+      </Values>
+    </Field>
+    <Field jid="20728" type="List" name="Location">
+      <Values>
+        <Value jid="1321428" name="Sydney" />
+        <Value jid="1321429" name="NSW Other" />
+        <Value jid="1321430" name="Melbourne" />
+        <Value jid="1321431" name="VIC Other" />
+        <Value jid="1321432" name="Brisbane" />
+        <Value jid="1321433" name="Gold Coast" />
+        <Value jid="1321434" name="QLD Other" />
+        <Value jid="1321435" name="Perth" />
+        <Value jid="1321436" name="WA Other" />
+        <Value jid="1321437" name="Adelaide" />
+        <Value jid="1321438" name="SA Other" />
+        <Value jid="1321439" name="Hobart" />
+        <Value jid="1321440" name="TAS Other" />
+        <Value jid="1321441" name="ACT" />
+        <Value jid="1321442" name="Northern Territory" />
+        <Value jid="1366623" name="Bangkok" />
+      </Values>
+    </Field>
+    <Field jid="20729" type="List" name="Work Type">
+      <Values>
+        <Value jid="1321443" name="Permanent / Full Time" />
+        <Value jid="1321444" name="Contract or Temp" />
+        <Value jid="1321445" name="Part-time" />
+        <Value jid="1321446" name="Casual" />
+      </Values>
+    </Field>
+    <Field jid="21265" type="Text" name="Consultant Name" />
+  </Fields>
+  <Job jid="998046" reference="919364" datePosted="2020-02-21" dateUpdated="2020-02-21T08:30:49Z">
+    <Title>Workshop Manager | Heavy fabrication | Perth</Title>
+    <Summary>Proven leadership and heavy fabrication savvy candidate required.</Summary>
+    <Description><![CDATA[<strong>About the company</strong><br><br>Australian owned heavy fabrication and construction.<br> &nbsp;&nbsp;<br><strong>About the role</strong><br> Reporting to the MD and GM, you are responsible for the overall production and output of a major heavy industrial workshop, specializing in structural steel fabrication, mineral processing, and mine site installations valued at 500k - $ 50m. A key to the role is prioritizing and planning projects whilst&nbsp; 'looking ahead' and seeing the bigger picture. Also your management of established key personnel and gaining their buy-in, which in turn will have a positive effect on production and output. &nbsp;Ideally, you will be from an engineering background as you&rsquo;ll need to draw on your technical knowledge and planning skills&nbsp;<br> <br> <strong>Key duties</strong><br> <ul> <li>Responsible for production, QA, and HSE across all workshop(s)</li> <li>Prioritizing and planning projects which will impact production.</li> <li>The ability to &lsquo;look ahead&rsquo; &ndash; Utilizing resources</li> <li>Man-management and internal stakeholder engagement.</li> <li>Technical/engineering understanding</li> <li>Liaising with senior management on cost, manpower, and production</li> </ul> <strong>Skills and experience</strong><br> <ul> <li>Strong leadership and man-management within the heavy industry;</li> <li>Technically proficient across large and complex heavy engineering projects;</li> <li>Able to implement change and gain respect within workforces;</li> <li>Influence and engage a varying number of stakeholders;</li> <li>Experience in the delivery of large scale mining, rail, and commercial projects- Workshop &amp; Site.</li> </ul> &nbsp;<br> <strong>Culture</strong><br> <strong><br> </strong>This private company prides itself on its commitment to people. They support and encourage. This company has a strong commitment to its culture and operations.<br> <br> <strong>Benefits&nbsp;</strong><br> <ul> <li>An engaging and flexible management team</li> <li>Career growth &amp; opportunity</li> <li>Engage and work on iconic projects</li> <li>Perth based &ndash; NO FIFO</li> </ul> Please submit your full CV (ideally in WORD) - In full confidence - Quoting: 919364<br> <strong>&nbsp;</strong>&nbsp;<br> <strong>Note: Only successful candidates will be shortlisted and contacted.</strong><br> <strong>&nbsp;</strong>&nbsp;<br> For an initial discussion, feel free to call Paul on Perth 08 9215 6200&nbsp; WST]]></Description>
+    <BulletPoints>
+      <BulletPoint>Senior leadership - No1 at facility</BulletPoint>
+      <BulletPoint>Heavy industrial fabrication and installation</BulletPoint>
+      <BulletPoint>Perth based - NO FIFO</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320942">Mining / Oil &amp; Gas / Utilities</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321308">Manager / Supervisor</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Paul</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>paul@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/998046/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="996240" reference="957980" datePosted="2020-02-18" dateUpdated="2020-02-18T03:39:12Z">
+    <Title>Excavator / Bobcat Operator - Demolition</Title>
+    <Summary>Excavator / Bobcat Operator with demolition experience required. Full time permanent position</Summary>
+    <Description><![CDATA[Our client provides demolitions&nbsp; services for large construction projects and requires an experience Excavator / Bobcat Operator. <br>&nbsp;<br> The suitable applicant will have a minimum of 3 years experience operating an Excavator and Bobcat in a demolition role and will have an unrestricted HR licence.&nbsp;<br> &nbsp;<br> Requirements:<br> <ul> <li>White Card</li> <li>Open HR Truck License</li> <li>Competence ticket</li> <li>Good attitude</li> <li>Team player&nbsp;&nbsp;</li> </ul> You will also need to hold any appropriate Nationally Accredited High Risk licences.<br> &nbsp;<br> Successful candidates will be required to pass a full pre-employment medical including a drug and alcohol screen, have a proven ability to adhere to safety regulations and previous industry experience.<br> &nbsp;<br> If you are interested in this opportunity, or would like to express your interest for future opportunities, please contact Crest by applying to the job.]]></Description>
+    <BulletPoints>
+      <BulletPoint>Immediate Start</BulletPoint>
+      <BulletPoint>Ongoing secure position</BulletPoint>
+      <BulletPoint>Full time</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320926">Building &amp; Construction</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321033">Demolition &amp; Excavation</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Perth</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>nathan@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/996240/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="996197" reference="957960" datePosted="2020-02-18" dateUpdated="2020-02-18T03:17:26Z">
+    <Title>Forklift Operator Labourer</Title>
+    <Summary>Labourer / Forklift Operator required for business Kewdale business.</Summary>
+    <Description><![CDATA[Our client, based in Kewdale is currently seeking an enthusiastic Labourer with a forklift ticket for their production facility.&nbsp;<br><br>This position will start as a casual role with the opportunity for permanent employment in the future.<br><br><strong>Requirements:</strong><br> <ul> <li>Current LF License and ability to operate in a high paced environment</li> <li>Current Drivers License and reliable transport</li> <li>Previous manufacturing experience</li> <li>Great 'Can Do' attitude.</li> <li>Strong OHS principals</li> <li>Available to start ASAP</li> </ul> If you meet the requirements and are interested in the position please select 'Apply Now" below to send through your resume]]></Description>
+    <BulletPoints>
+      <BulletPoint>Immediate Start</BulletPoint>
+      <BulletPoint>Ongoing Work</BulletPoint>
+      <BulletPoint>Position will become full time</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320950">Transport / Logistics / Drivers</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321417">Warehouse &amp; Distribution</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321446">Casual</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Nathan Lovick</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>nathan@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/996197/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="995148" reference="955125" datePosted="2020-02-14" dateUpdated="2020-02-14T07:32:29Z">
+    <Title>Bid Co-ordinator | Marketing and development | Perth</Title>
+    <Summary>Are you an experienced Bid co-coordinator who likes engaging with clients ? Then step out of the shadows and read on...........</Summary>
+    <Description><![CDATA[<strong>About the company</strong><br> <br> Our client is a multi-disciplinary company with a proven track record in delivering small to large-scale mine site construction, maintenance and operations in Australia.<br> <br> <strong>About the role</strong><br> <strong><br> </strong>Reporting directly to the Estimating lead, this role works closely with the pre-contracts team to collate and co-ordinate bids and contracts from each division to formulate into a &lsquo;blue-chip&rsquo; quality bid proposals. &nbsp;Depending upon your experience and character, this role will see you as a point of contact with their clients and therefore proven skills across client development will be a great asset. Your role will encompass some marketing with existing templates and initiatives, which you&rsquo;ll be required to embrace.<br><br> <strong>Skills:<br> </strong>To be successful in the role your main duties and responsibilities include:<br> <ul> <li>Assist with the development of tender proposals ensuring submissions are&nbsp;accurate and compliant;</li> <li>Liaise with various departments across the division for the collation of information required for bid proposals;</li> <li>Ensure all proposals are formatted and comply with company brand guidelines, client requirements and follow internal quality guidelines;</li> <li>Assist with administrative duties including&nbsp;contracts admin and marketing support.</li> </ul> <strong>&nbsp;</strong>&nbsp;<strong>You</strong><br>&nbsp; &nbsp;<br> <ul> <li>Demonstrated Tender/Bid experience with a minimum of 3 years&rsquo; experience in resources or construction environment;</li> <li>Knowledge of the resources and/or major construction environment is preferred, however, this is a non &ndash; technical role;</li> <li>Enjoy direct engagement with clients; Passionate and personable;</li> <li>Excellent written and verbal communication &ndash; Some marketing experience;</li> <li>Able to work within a small team in a service contractor environment &ndash; Not client-side or owners team;</li> <li>Able to travel 25 minutes East of the Perth CBD day to day;</li> <li>Must be able to complete an initial pre-qualification inc reference check, criminal records disclosure, OHS check and right to work in Australia.</li> </ul> &nbsp;&nbsp;<strong>&nbsp;</strong>&nbsp;<br> ** &nbsp; &nbsp; There will be an&nbsp;immediate&nbsp;interview for the right person &nbsp;**<br> <br> <br> <strong>What next:</strong><br> To submit your details by clicking on the &nbsp;<strong>APPLY&nbsp;</strong>button below.<br> <br> Otherwise please feel free to call Paul &nbsp;directly for an initial chat on<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08 92156200&nbsp; - Quote ref: Bid-955123<br> <strong>&nbsp;</strong>&nbsp;<br> <strong>&nbsp;</strong>]]></Description>
+    <BulletPoints>
+      <BulletPoint>Bid co-ordination, client engagement and marketing - Industrial environment</BulletPoint>
+      <BulletPoint>Growing business; Backed by a resources industry giant.</BulletPoint>
+      <BulletPoint>Engaging and open work place; high staff retention.</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320942">Mining / Oil &amp; Gas / Utilities</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321312">Other</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Paul</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>paul@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/995148/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="993954" reference="861431" datePosted="2020-02-12" dateUpdated="2020-02-12T08:00:38Z">
+    <Title>Excavator / Bobcat Operator</Title>
+    <Summary>Seeking an experienced Excavator Operator for Perth Metro work. Early start in 2020</Summary>
+    <Description><![CDATA[Our client provides earth-moving services for civil and state / government projects. Ranging from construction of buildings to simple sand-moving or cleanup. They are currently seeking experienced Excavator Operators to join their ever growing team.<br> &nbsp;<br> As a Excavator or/and Bobcat Operator, you will have at least 3 years experience operating all types of Production Excavators or mini excavators.<br> &nbsp;<br> Requirements:<br> <ul> <li>White Card</li> <li>Open HR Truck License</li> <li>Competence ticket</li> </ul> You will also need to hold any appropriate Nationally Accredited High Risk licences.<br> &nbsp;<br>Successful candidates will be required to pass a full pre-employment medical including a drug and alcohol screen, have a proven ability to adhere to safety regulations and previous industry experience.<br> &nbsp;<br> <div>If you are interested in this opportunity, or would like to express your interest for future opportunities, please contact Crest by applying to the job.</div>]]></Description>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320926">Building &amp; Construction</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321034">Driver / Operator</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Nathan</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>nathan@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/993954/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="993188" reference="955123" datePosted="2020-02-11" dateUpdated="2020-02-14T06:19:34Z">
+    <Title>Bid Co-ordinator | Marketing and development | Perth</Title>
+    <Summary>Are you an experienced Bid co-coordinator who likes engaging with clients ? Then step out of the shadows and read on...........</Summary>
+    <Description><![CDATA[<strong>About the company</strong><br> <br> Our client is a multi-disciplinary company with a proven track record in delivering small to large-scale mine site construction, maintenance and operations in Australia.<br> <br> <strong>About the role</strong><br> <strong><br> </strong>Reporting directly to the Estimating lead, this role works closely with the pre-contracts team to collate and co-ordinate bids and contracts from each division to formulate into a &lsquo;blue-chip&rsquo; quality bid proposals. &nbsp;Depending upon your experience and character, this role will see you as a point of contact with their clients and therefore proven skills across client development will be a great asset. Your role will encompass some marketing with existing templates and initiatives, which you&rsquo;ll be required to embrace.<br><br> <strong>Skills:<br> </strong>To be successful in the role your main duties and responsibilities include:<br> <ul> <li>Assist with the development of tender proposals ensuring submissions are&nbsp;accurate and compliant;</li> <li>Liaise with various departments across the division for the collation of information required for bid proposals;</li> <li>Ensure all proposals are formatted and comply with company brand guidelines, client requirements and follow internal quality guidelines;</li> <li>Assist with administrative duties including&nbsp;contracts admin and marketing support.</li> </ul> <strong>&nbsp;</strong>&nbsp;<strong>You</strong><br>&nbsp; &nbsp;<br> <ul> <li>Demonstrated Tender/Bid experience with a minimum of 3 years&rsquo; experience in resources or construction environment;</li> <li>Knowledge of the resources and/or major construction environment is preferred, however, this is a non &ndash; technical role;</li> <li>Enjoy direct engagement with clients; Passionate and personable;</li> <li>Excellent written and verbal communication &ndash; Some marketing experience;</li> <li>Able to work within a small team in a service contractor environment &ndash; Not client-side or owners team;</li> <li>Able to travel 25 minutes East of the Perth CBD day to day;</li> <li>Must be able to complete an initial pre-qualification inc reference check, criminal records disclosure, OHS check and right to work in Australia.</li> </ul> &nbsp;&nbsp;<strong>&nbsp;</strong>&nbsp;<br> ** &nbsp; &nbsp; There will be an&nbsp;immediate&nbsp;interview for the right person &nbsp;**<br> <br> <br> <strong>What next:</strong><br> To submit your details by clicking on the &nbsp;<strong>APPLY&nbsp;</strong>button below.<br> <br> Otherwise please feel free to call Paul &nbsp;directly for an initial chat on<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08 92156200&nbsp; - Quote ref: Bid-955123<br> <strong>&nbsp;</strong>&nbsp;<br> <strong>&nbsp;</strong>]]></Description>
+    <BulletPoints>
+      <BulletPoint>Bid co-ordination, client engagement and marketing - Industrial environment</BulletPoint>
+      <BulletPoint>Growing business; Backed by a resources industry giant.</BulletPoint>
+      <BulletPoint>Engaging and open work place; high staff retention.</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320942">Mining / Oil &amp; Gas / Utilities</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321312">Other</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Paul</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>paul@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/993188/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="989910" reference="952761" datePosted="2020-02-03" dateUpdated="2020-02-04T03:47:46Z">
+    <Title>Process Engineer | Plant operations and development | Perth</Title>
+    <Summary>Do you have '2020 vision' ? Then move to a progressive and engaging company who value your input and expertise.  #gold  #processing</Summary>
+    <Description><![CDATA[<strong>About the company</strong><br> <br> Crest is working with an established contractor to secure a 'proven and highly regarded'&nbsp;<strong>Process Engineer</strong> to add to their Perth based team. Our client is making great strides in 2020, and have recently been awarded contracts to further develop existing plants, as well as having many other mine site operational contracts in hand across WA.<br>&nbsp;<br> <strong>About the role</strong><br> <strong><br> </strong>Reporting directly to the Operations Manager, our client is looking for a passionate and highly personable <strong>Process Engineer</strong> with the ability and willingness to engage with clients to further develop plant production and maximise the companies brand specifically across mineral processing and maintenance contracts.<br> <br> <strong>Duties:</strong><br> <br> <ul> <li>To lead and manage all process-related technical optimisations, evaluations and reporting across plant production and plant development &ndash; Green &amp; Brownfield;</li> <li>Engaging with clients and preparing meetings with vendors and external stakeholders;</li> <li>Generation of all relevant process documentation, laboratory test work flowsheet, plant layout and interaction with other disciplines;</li> <li>Able assisting with bids and estimating across your specialist field.</li> <li>Communicate with key stakeholders; Be open to change and flexible.</li> </ul> &nbsp;&nbsp;<strong>&nbsp;</strong>&nbsp;<br> <strong>Skills and required:</strong><br> <strong>&nbsp;</strong>&nbsp;<br> <ul> <li>Be the &lsquo;go-to&rsquo; expert across metallurgy and process engineering of ideally gold or similar precious metals.&nbsp;<em>Note: We are NOT looking mineral sands candidates for this position;</em></li> <li>To be successful you have a degree in Process Engineering or Metallurgy with a depth of experience within processing operations and developing &lsquo;bigger picture&rsquo; strategies; <strong>Gold</strong> experience will be held in high regard;</li> <li>Comfortable working within a small team and be open to change - Flexible in the workplace;</li> <li>This is a Perth based role near the airport &ndash; Some ad-hoc travel will be required.</li> </ul> <br> <strong>Culture</strong><br> <strong><br> </strong>This company prides itself on its retention of staff and its open-door policy. You will be supported to develop your side of the business and to personally grow within the organisation.&nbsp;An establish medium-sized business that is part-owned by a mining industry giant &ndash; Cash positive.<br><br><strong>Next step:</strong><br><br>Please apply with your CV (Ideally in WORD format) Note, your details are held in strict confidence.<br><br> Shortlisting has commenced.<br><br>Feel free to call Paul on +61 8 92156200 for an initial chat.&nbsp;<br>Quote: Process&nbsp;&nbsp;952761]]></Description>
+    <BulletPoints>
+      <BulletPoint>Lead and develop our clients capability within the contractor space</BulletPoint>
+      <BulletPoint>Plant operations and project development - Precious metals</BulletPoint>
+      <BulletPoint>Perth based staff role</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320942">Mining / Oil &amp; Gas / Utilities</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321309">Mineral Processing</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Paul</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>paul@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/989910/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="989066" reference="952242" datePosted="2020-01-31" dateUpdated="2020-01-31T06:34:59Z">
+    <Title>Steel Fixers / Concrete Patchers</Title>
+    <Summary>Concrete Patchers and Steel Fixers required for Precast Concrete Yard.</Summary>
+    <Description><![CDATA[We currently require experienced Steel Fixers and concrete patchers for our Precast Concrete client. This position will commence on casual but has the opportunity to become ongoing.<br><br>Basic Responsibilities:<br>&bull; Steel Fixing of reo mesh<br>&bull; Forming concrete moulds<br>&bull; Inserting hardware<br>&bull; Concrete patching<br>&bull; Concrete finishing<br><br>Requirements:<br>&bull; Previous experience working in a precast yard (highly desirable)<br>&bull; Drivers Licence and reliable transport<br>&bull; Ability to pass a Drug &amp; Alcohol test<br>&bull; White Card<br>&bull; Available for an immediate start<br><br>If you are interested in the position and can meet the above requirements please select "Apply Now" below to send through your resume.<br><br><br>Only suitable candidates will be contacted]]></Description>
+    <BulletPoints>
+      <BulletPoint>Immediate Start</BulletPoint>
+      <BulletPoint>Ongoing work</BulletPoint>
+      <BulletPoint>40+ hours per week</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320949">Trades &amp; Services</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321382">Concrete / Formwork</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321446">Casual</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">Nathan Lovick</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>nathan@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/989066/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+  <Job jid="988427" reference="915961" datePosted="2020-01-30" dateUpdated="2020-01-30T09:30:19Z">
+    <Title>Estimator | Heavy fabrication &amp; installation | WA</Title>
+    <Summary>#Estimator  #firstprinciples  #smp  # fabrication # mining # structural
+#Perth</Summary>
+    <Description><![CDATA[<strong>The company</strong><br> A highly regarded and long-established&nbsp;steel fabrication and construction services company to the construction, mining, oil and gas sectors - Australia wide.<br> &nbsp;&nbsp;<br> <strong>About the role and you</strong><br> Reviewing tender documentation to determine scope and specific terms and conditions, whilst ensuring&nbsp;accurate estimates of the total cost of projects are completed on time and in accordance with required technical standards. Working to the quality management system procedures and work instructions<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>The ideal candidate will have:</strong><br> <strong>&nbsp;</strong>&nbsp;<br> <ul> <li>Trade certificate or Project Management/Engineering/Design background;</li> <li>A high level of competence in all technical aspects of estimating;</li> <li>An ability to prioritise workload and meet deadlines with a consistently high level of accuracy;</li> <li>A demonstrated ability to develop practical solutions to problems;</li> <li>Experience working within the heavy industrial fabrication &amp; SMP industries;</li> <li>5 years or more experience in Construction / SMP Estimation;</li> <li>Proficiency in Microsoft Office Programs with intermediate to advanced skills in Excel;</li> <li>A demonstrated understanding of Estimating core processes, requiring minimal direction and supervision.</li> </ul> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> <strong>The following additional skills and experience would be advantageous:</strong><br> &nbsp;&nbsp;<br> <ul> <li>Have worked &lsquo;onsite&rsquo; across Green &amp; Brownfield project in Australia, either as a tradesman or Engineer:</li> <li>Have proven success in the pricing of variation claims &ndash; Hard dollar contracts</li> <li>Have a strong ability to identify direct and indirect cost estimates</li> <li>Scheduling ability with Microsoft Project</li> <li>Familiar with a Tier 2/3 contracting environment</li> </ul> <strong>&nbsp;</strong>&nbsp;<br> <strong>Culture</strong><br> This company has some of the best heavy industrial personnel in the state. The role will see you working along these professionals to deliver large scale projects to some of Australia's iconic projects. They have a positive uplift in workload for 2020<br> &nbsp;&nbsp;<br> &nbsp;&nbsp;<br> Please submit your details via the &lsquo;Apply&rsquo; button&nbsp; (Ideally in WORD)]]></Description>
+    <BulletPoints>
+      <BulletPoint>Major fabrication and SMP contractor</BulletPoint>
+      <BulletPoint>First principle estimating - Hard dollar contracts</BulletPoint>
+      <BulletPoint>Perth based - Staff role</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="20726" name="Category" vid="1320942">Mining / Oil &amp; Gas / Utilities</Classification>
+      <Classification jid="20727" name="Sub Category" vid="1321312">Other</Classification>
+      <Classification jid="20728" name="Location" vid="1321435">Perth</Classification>
+      <Classification jid="20729" name="Work Type" vid="1321443">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="21265" name="Consultant Name">.</Field>
+    </Fields>
+    <Apply>
+      <EmailTo>paul@crestpersonnel.com.au</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4440/988427/kdqdigaveoqetnmrgrj47sr6qm</Url>
+    </Apply>
+  </Job>
+</Jobs>
