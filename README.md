@@ -1,2 +1,1 @@
-# madsource
-Source of madness
+Python files reside here
